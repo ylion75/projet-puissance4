@@ -1,0 +1,41 @@
+Projet puissance 4
+
+Introduction 
+Projet d'études dans le cadre du cours d'Algorithme : création d'un jeu de Puissance 4 codé en C et selon les règles disponible ici : https://fr.wikipedia.org/wiki/Puissance_4
+
+Organisation fichier 
+Main : Initialisation de la fonction et du jeu, lance les tests
+Grille: Initialisation de la Grille et de son affichage
+Jeu : sélection mode de jeu, fonctions de jeu (possible / gagne)
+Test : Tests de l'ensemble des fonctions de jeu et d'affichage
+
+Main :
+- lancel la grille de test 
+- lance affichage de la grille
+
+__________________________________________________________________________________________________________________________________________________________________________________
+Puissance 4
+- 
+
+Grille :
+//création de la grille de jeu
+	- 6 rangées et 7 colonnes
+	- | au début, à la fin et entre chaque colonnes;
+	- _ au début, à la fin et entre chaque lignes;
+	- . a la place des chars
+	- numérotation des cases basses et sur les côtés
+
+Jeu : 
+//initialisation partie
+//coups possibles
+	- joueur A / B 
+	- les joueurs jouent tour à tour
+	- chaque joueur dispose de 21 coups
+	- les pions ne peuvent pas dépasser la grille de jeu 
+//gagne (vertical / horizontal / diagonal)
+
+
+
+Test
+1/ La grille s'affiche
+2/ La grille est vide 
