@@ -1,9 +1,8 @@
-#include <iostream>
-
-using namespace std;
+#include <stdio.h>
+#include "unittest.h"
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    printf("Hello");
     return 0;
 }
