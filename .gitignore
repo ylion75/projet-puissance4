@@ -1,3 +1,6 @@
 bin/
 obj/
 projet-puissance4/
+src/bin/
+src/obj/
+src/projet-puissance4.depend
