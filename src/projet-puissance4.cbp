@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Grille.cpp" />
+		<Unit filename="Grille.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="puissance4.cpp" />
+		<Unit filename="puissance4.h" />
+		<Unit filename="unittest.cpp" />
+		<Unit filename="unittest.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
